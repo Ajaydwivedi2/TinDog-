@@ -2,7 +2,7 @@
 > Welcome to our project! This is a TinDog website for dogs to make match with other dogs. The aim of creatinig this project was to learn how to use Bootstrap to make a beautiful web page.
 > Live demo [_here_](https://ajaydwivedi2.github.io/TinDog-/). <!-- If you have the project hosted somewhere, include the link here. -->
 
-![App Screenshot](https://raw.githubusercontent.com/Ajaydwivedi2/Daily-Journal/master/public/css/Daily-journal.png)
+![App Screenshot]()
 
 ## Table of Contents
 * [General Info](#general-information)
