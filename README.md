@@ -1,8 +1,8 @@
 # Daily-Journal
-> Welcome to our project! This is a TinDog website for dogs to make match with other dogs. The aim of creatinig this project was to learn how to use Bootstrap to make a beautiful web page.
+> Welcome to our project! This is a website for dogs to make friends nearby. The aim of creatinig this project was to learn how to use Bootstrap to make a beautiful web page.
 > Live demo [_here_](https://ajaydwivedi2.github.io/TinDog-/). <!-- If you have the project hosted somewhere, include the link here. -->
 
-![App Screenshot]()
+![App Screenshot](images/TinDog.png)
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -13,7 +13,8 @@
 
 
 ## General Information
-- The aim of this project was to learn how to use Bootstrap framework
+- a website for dogs to make friends nearby.
+- The aim of this project was to learn how to use Bootstrap framework.
 
 
 ## Technologies Used
